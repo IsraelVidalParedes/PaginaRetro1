@@ -1,0 +1,22 @@
+body{
+    background-color: #0f071c;
+    text-align: center;
+}
+marquee{
+    color: #fff;
+    font-size: 2vw;
+    font-family: Serif;
+    font-weight: bold;
+}
+.disc{
+    margin-top: 1vw;
+}
+
+.navbar{
+    background-color: #120626;
+}
+.navbar-brand{
+    font-family: Serif;
+    font-weight: bold;
+}
+
